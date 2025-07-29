@@ -13,7 +13,7 @@ function Hero() {
           <p className="text-base text-center md:text-left text-gray-900 dark:text-gray-400 font-medium">
             I’m a passionate MERN stack developer who loves building real-world applications like invoice generators, billing systems, and authentication platforms. From designing responsive interfaces to integrating complex backend features, I enjoy turning ideas into fast, functional, and user-friendly web solutions.          </p>
           <div className="flex items-center justify-center md:justify-start">
-            <a href='public/Dharmik_Meghani_Resume.pdf' download className="flex items-center justify-center gap-2 px-10 py-2.5 mt-4 text-white dark:text-black dark:hover:text-white text-sm md:text-base font-medium bg-black hover:bg-zinc-700 dark:bg-white dark:hover:bg-zinc-700 rounded-lg cursor-pointer">Resume <BsDownload /> </a>
+            <a href='/Dharmik_Meghani_Resume.pdf' download className="flex items-center justify-center gap-2 px-10 py-2.5 mt-4 text-white dark:text-black dark:hover:text-white text-sm md:text-base font-medium bg-black hover:bg-zinc-700 dark:bg-white dark:hover:bg-zinc-700 rounded-lg cursor-pointer">Resume <BsDownload /> </a>
           </div>
         </div>
         <div className="flex-1 flex items-center justify-center">
