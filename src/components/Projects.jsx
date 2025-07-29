@@ -18,8 +18,8 @@ const projects = [
     link: "https://billcarft.onrender.com"
   },
   {
-    title: "Image Generator",
-    description: "AI-generated art using prompts, credits, and download options.",
+    title: "Expenses Tracker",
+    description: "Expenses tracker with login, add expenses and incomes and download excel file.",
     images: [
       "/ex-1.png",
       "/ex-2.png",
