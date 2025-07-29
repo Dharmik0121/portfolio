@@ -21,11 +21,11 @@ const projects = [
     title: "Image Generator",
     description: "AI-generated art using prompts, credits, and download options.",
     images: [
-      "public/ex-1.png",
-      "public/ex-2.png",
-      "public/ex-3.png",
-      "public/ex-4.png",
-      "public/ex-5.png",
+      "/ex-1.png",
+      "/ex-2.png",
+      "/ex-3.png",
+      "/ex-4.png",
+      "/ex-5.png",
     ],
     link: "https://expense-frontend-evgk.onrender.com"
   },
@@ -33,11 +33,11 @@ const projects = [
     title: "Image Generator",
     description: "AI-generated art using prompts, credits, and download options.",
     images: [
-      "public/saas-1.png",
-      "public/saas-2.png",
-      "public/saas-3.png",
-      "public/saas-4.png",
-      "public/saas-5.png",
+      "/saas-1.png",
+      "/saas-2.png",
+      "/saas-3.png",
+      "/saas-4.png",
+      "/saas-5.png",
     ],
     link: "https://saas-imagegeneration-1.onrender.com"
   },
